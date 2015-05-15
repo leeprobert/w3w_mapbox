@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Scheme
-   LastUpgradeVersion = "0510"
+   LastUpgradeVersion = "0640"
    version = "1.3">
    <BuildAction
       parallelizeBuildables = "YES"
@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "FC9926A2BC9047908400F879"
+               BlueprintIdentifier = "2BE930CA42C695B78A577278"
                BuildableName = "libPods-SMCalloutView.a"
                BlueprintName = "Pods-SMCalloutView"
                ReferencedContainer = "container:Pods.xcodeproj">

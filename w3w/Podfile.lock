@@ -1,11 +1,11 @@
 PODS:
   - AFNetworking (2.5.3):
-    - AFNetworking/NSURLConnection
-    - AFNetworking/NSURLSession
-    - AFNetworking/Reachability
-    - AFNetworking/Security
-    - AFNetworking/Serialization
-    - AFNetworking/UIKit
+    - AFNetworking/NSURLConnection (= 2.5.3)
+    - AFNetworking/NSURLSession (= 2.5.3)
+    - AFNetworking/Reachability (= 2.5.3)
+    - AFNetworking/Security (= 2.5.3)
+    - AFNetworking/Serialization (= 2.5.3)
+    - AFNetworking/UIKit (= 2.5.3)
   - AFNetworking/NSURLConnection (2.5.3):
     - AFNetworking/Reachability
     - AFNetworking/Security
@@ -21,14 +21,14 @@ PODS:
     - AFNetworking/NSURLConnection
     - AFNetworking/NSURLSession
   - FMDB (2.3):
-    - FMDB/standard
+    - FMDB/standard (= 2.3)
   - FMDB/common (2.3)
   - FMDB/standard (2.3):
     - FMDB/common
   - GRMustache (7.3.0):
     - JRSwizzle (~> 1.0)
   - JRSwizzle (1.0)
-  - Mapbox-iOS-SDK (1.6.1):
+  - Mapbox-iOS-SDK (1.6.0):
     - FMDB (= 2.3)
     - GRMustache (= 7.3.0)
     - SMCalloutView (= 2.0)
@@ -37,7 +37,7 @@ PODS:
 
 DEPENDENCIES:
   - AFNetworking (~> 2.5.3)
-  - Mapbox-iOS-SDK
+  - Mapbox-iOS-SDK (= 1.6.0)
   - PixateFreestyle
 
 SPEC CHECKSUMS:
@@ -45,8 +45,8 @@ SPEC CHECKSUMS:
   FMDB: 773d79bb74226959b7e2286b1d6e0bd857c88915
   GRMustache: 6baee020c5644416c034f5afb1607f6219e7f753
   JRSwizzle: dd5ead5d913a0f29e7f558200165849f006bb1e3
-  Mapbox-iOS-SDK: e05afd622a08015736b007f8adb7a1d8dc1a83da
+  Mapbox-iOS-SDK: ee136ca5b7f853456b50dfd7a7f0e243288cf86f
   PixateFreestyle: 46d97070c7d647519dc367c70cbe84c189e07ca9
   SMCalloutView: f758edd824b18bf4f42de00df1e299861a2d1950
 
-COCOAPODS: 0.33.1
+COCOAPODS: 0.37.1

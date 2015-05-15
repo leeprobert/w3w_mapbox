@@ -1,4 +1,4 @@
 platform :ios, '6.0'
 pod 'AFNetworking', '~> 2.5.3'
 pod 'PixateFreestyle'
-pod 'Mapbox-iOS-SDK'
+pod 'Mapbox-iOS-SDK', '1.6.0'

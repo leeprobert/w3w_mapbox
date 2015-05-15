@@ -4,11 +4,6 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>Mapbox.xcscheme</key>
-		<dict>
-			<key>isShown</key>
-			<false/>
-		</dict>
 		<key>Pods-AFNetworking.xcscheme</key>
 		<dict>
 			<key>isShown</key>
@@ -29,12 +24,12 @@
 			<key>isShown</key>
 			<false/>
 		</dict>
-		<key>Pods-Mapbox-iOS-SDK.xcscheme</key>
+		<key>Pods-Mapbox-iOS-SDK-Mapbox.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 		</dict>
-		<key>Pods-PixateFreestyle.xcscheme</key>
+		<key>Pods-Mapbox-iOS-SDK.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
@@ -51,6 +46,47 @@
 		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
-	<dict/>
+	<dict>
+		<key>0BDE53E01D0DF9E7F43122CF</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>12E0E608A22512C13CDCA330</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>194AB3C9C1C5058406AA61DB</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>2788D38BA7CA619ABD9FA8A9</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>2BE930CA42C695B78A577278</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>4F382A06518F8DC54605CA5A</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>680C2FD3416BE96972C463F9</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>BFF2EE6142D892423F978472</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
 </dict>
 </plist>

@@ -6,10 +6,19 @@
 //  Copyright (c) 2015 probert. All rights reserved.
 //
 
-#import <UIKit/UIKit.h>
+@import UIKit;
+@import CoreLocation;
+#import "RMMapViewDelegate.h"
 
-@interface ViewController : UIViewController
+@class what3words;
 
+
+@interface ViewController : UIViewController <RMMapViewDelegate, CLLocationManagerDelegate>
+
+@property (nonatomic, strong) RMMapView *mapView;
+@property (nonatomic, strong) RMAnnotation *userLocationAnnotation;
+@property (nonatomic, strong) what3words *w3w;
+@property (nonatomic, strong) CLLocationManager *locationManager;
 
 @end
 

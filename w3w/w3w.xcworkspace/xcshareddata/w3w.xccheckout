@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>221A551E-E57E-48E0-B5D7-090DA3F87C6F</string>
+	<key>IDESourceControlProjectName</key>
+	<string>w3w</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>724CCB011C9A1240E1FC0DCD6C08BC40344524CE</key>
+		<string>github.com:leeprobert/w3w_mapbox.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>w3w/w3w.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>724CCB011C9A1240E1FC0DCD6C08BC40344524CE</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:leeprobert/w3w_mapbox.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>724CCB011C9A1240E1FC0DCD6C08BC40344524CE</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>724CCB011C9A1240E1FC0DCD6C08BC40344524CE</string>
+			<key>IDESourceControlWCCName</key>
+			<string>W3W</string>
+		</dict>
+	</array>
+</dict>
+</plist>
