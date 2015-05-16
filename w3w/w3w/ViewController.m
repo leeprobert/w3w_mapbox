@@ -32,6 +32,12 @@
     self.locationManager.delegate = self;
     self.locationManager.desiredAccuracy = kCLLocationAccuracyBest;
     self.locationManager.distanceFilter = 500;
+    self.locationManager.pausesLocationUpdatesAutomatically = NO;
+    self.locationManager.activityType = CLActivityTypeFitness;
+    
+    if ([self.locationManager respondsToSelector:@selector(requestWhenInUseAuthorization)]) {
+        [self.locationManager requestWhenInUseAuthorization];
+    }
     
     [self.locationManager startUpdatingLocation];
     
@@ -86,6 +92,8 @@
         // just change the coordinates to match latest
         self.userLocationAnnotation.coordinate = coord;
     }
+    
+    self.mapView.centerCoordinate = coord;
 }
 
 #pragma mark - CLLocationManagerDelegate
